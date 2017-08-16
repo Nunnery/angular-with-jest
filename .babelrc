@@ -1,0 +1,14 @@
+{
+  "compact": "false",
+  "plugins": [
+    [
+      "angularjs-annotate",
+      {
+        "explicitOnly": true
+      }
+    ]
+  ],
+  "presets": [
+    "env"
+  ]
+}
