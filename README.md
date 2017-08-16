@@ -1,4 +1,6 @@
 # angular-with-jest
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nunnery/angular-with-jest.svg)](https://greenkeeper.io/)
 This is a project designed to show how to use [AngularJS 1.x] with [Webpack] and [Jest].
 
 In addition, this project also demonstrates how to use [Prettier] to automatically format
