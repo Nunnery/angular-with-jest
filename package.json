@@ -10,7 +10,7 @@
     "angular": "^1.6.2"
   },
   "devDependencies": {
-    "@types/jest": "^20.0.4",
+    "@types/jest": "^21.1.0",
     "angular-mocks": "^1.6.5",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^21.0.0",
