@@ -6,11 +6,11 @@
     "@uirouter/angularjs": "^1.0.5",
     "@uirouter/dsr": "^1.0.2",
     "@uirouter/sticky-states": "^1.4.1",
-    "@uirouter/visualizer": "^4.0.0",
+    "@uirouter/visualizer": "^5.0.0",
     "angular": "^1.6.2"
   },
   "devDependencies": {
-    "@types/jest": "^20.0.4",
+    "@types/jest": "^21.1.0",
     "angular-mocks": "^1.6.5",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^21.0.0",
@@ -44,7 +44,7 @@
     "sass-loader": "^6.0.6",
     "serve": "^6.0.2",
     "style-loader": "^0.19.0",
-    "url-loader": "^0.5.9",
+    "url-loader": "^0.6.1",
     "webpack": "^3.3.0",
     "webpack-dev-server": "^2.5.1",
     "webpack-fail-plugin": "^2.0.0",
