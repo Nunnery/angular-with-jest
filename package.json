@@ -32,7 +32,7 @@
     "html-loader": "^0.5.1",
     "html-webpack-plugin": "^2.29.0",
     "husky": "^0.14.3",
-    "jest-cli": "^21.0.0",
+    "jest-cli": "^22.0.3",
     "jest-junit": "^3.0.0",
     "lint-staged": "^4.0.2",
     "ng-annotate-loader": "^0.6.1",
