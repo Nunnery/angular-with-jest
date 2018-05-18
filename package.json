@@ -34,7 +34,7 @@
     "husky": "^0.14.3",
     "jest-cli": "^21.0.0",
     "jest-junit": "^3.0.0",
-    "lint-staged": "^4.0.2",
+    "lint-staged": "^7.1.1",
     "ng-annotate-loader": "^0.6.1",
     "node-sass": "^4.5.3",
     "npm-watch": "^0.3.0",
