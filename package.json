@@ -15,7 +15,7 @@
     "babel-eslint": "^8.0.0",
     "babel-jest": "^21.0.0",
     "babel-loader": "^7.1.1",
-    "babel-plugin-angularjs-annotate": "^0.8.0",
+    "babel-plugin-angularjs-annotate": "^0.9.0",
     "babel-preset-env": "^1.6.0",
     "clean-webpack-plugin": "^0.1.16",
     "cross-env": "^5.0.1",
